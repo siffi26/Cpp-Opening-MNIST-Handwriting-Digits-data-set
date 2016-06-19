@@ -12,7 +12,7 @@ Just Copy + Paste the [main.cpp](https://github.com/Cartucho/Cpp-Opening-MNIST-H
 
 To open the value of the image just do:
  image -> dataset[number of the image to open][pixel from 0 to 784 = 28(rows)*28(cols)]
- label -> +label[number of the image to open]  // " Yes with the '+' "
+ label -> +label[number of the image to open]      // Don't forget the '+'
  
 Just run the script with your path's
 ------
