@@ -17,6 +17,6 @@ To open the value of the image just do:
 Just run the script with your path's
 ------
 
-And you should see a random example opening:
+And you should see a random example opening: (converted to binary just for the example)
 
 ![alt text](https://github.com/Cartucho/Cpp-Opening-MNIST-Handwriting-Digits-data-set/blob/master/example.png)
