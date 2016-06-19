@@ -19,4 +19,4 @@ Just run the script with your path's
 
 And you should see a random example opening:
 
-![alt text][example](https://github.com/Cartucho/Cpp-Opening-MNIST-Handwriting-Digits-data-set/blob/master/example.png)
+![alt text](https://github.com/Cartucho/Cpp-Opening-MNIST-Handwriting-Digits-data-set/blob/master/example.png)
