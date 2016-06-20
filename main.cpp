@@ -143,19 +143,20 @@ int main()
     int number_of_images;
     int image_size;
 
-    // for the labels the magic number is 2049 e não têm rows nem cols
-
-    // TRAINING SET - 60 000 images
-
+    /*
+        TRAINING SET - 60 000 images
+    */
+    
     // Read Image
     //uchar **dataset = read_mnist_images("[your path].../train-images.idx3-ubyte", number_of_images, image_size);
     // Read Labels
     //uchar *labels = read_mnist_labels("[your path].../train-labels.idx1-ubyte", number_of_images);
 
 
-
-    // TEST SET - 10 000 images
-
+    /*
+        TEST SET - 10 000 images
+    */
+    
     // Read Image
     uchar **dataset = read_mnist_images("[your path].../t10k-images.idx3-ubyte", number_of_images, image_size);
     // Read Labels
