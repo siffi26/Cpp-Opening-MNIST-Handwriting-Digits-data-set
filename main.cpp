@@ -1,7 +1,5 @@
 #include <iostream>
 #include <fstream>
-#include <vector>
-#include <bitset>
 
 using namespace std;
 typedef unsigned char uchar;
